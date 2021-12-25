@@ -1,0 +1,12 @@
+.svg {
+    width: 50px;
+}
+
+#MainPage {
+    text-align: center;
+}
+
+#aboutText {
+    margin: 0 auto;
+    font-size: 20px;
+}
